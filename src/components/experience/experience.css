@@ -1,0 +1,48 @@
+.experience_container {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+
+}
+.experience_container > div {
+    background-color: var(--color-bg-varient);
+    padding: 2.4rem 5rem;
+    border-radius: 2rem;
+    border: 1px solid transparent;
+    transition: all .4s ease;
+}
+.experience_container > div:hover {
+    background-color: transparent;
+    border-color: var(--color-primary-parent);
+    cursor: pointer;
+    
+}
+.experience_container  h3 {
+    text-align: center;
+    margin-bottom: 2rem;
+    color: var(--color-primary);
+}
+.experience_content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    row-gap: 2rem;
+
+}
+.experience_details {
+    display: flex;
+    gap: 1rem;
+}
+
+@media screen and (max-width: 600px) {
+    .experience_container {
+        width: 100%;
+        margin: 0 auto;
+
+    }
+    #experience h5 {
+        margin-top: 10rem;
+    }
+}
+@media screen and (max-width: 1024px) {
+    
+ }
