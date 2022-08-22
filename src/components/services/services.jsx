@@ -14,15 +14,15 @@ function Services() {
           <ul className='list'>
             <li>
               <FaCheckCircle className='icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Suscipit ut minima dicta voluptatum numquam, consectetur sint inventore ipsa similique dolores vero doloribus facilis asperiores eveniet rem error laudantium delectus amet?</p>
+              <p></p>
             </li>
             <li>
               <FaCheckCircle className='icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Suscipit ut minima dicta voluptatum numquam, consectetur sint inventore ipsa similique dolores vero doloribus facilis asperiores eveniet rem error laudantium delectus amet?</p>
+              <p></p>
             </li>
             <li>
               <FaCheckCircle className='icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Suscipit ut minima dicta voluptatum numquam, consectetur sint inventore ipsa similique dolores vero doloribus facilis asperiores eveniet rem error laudantium delectus amet?</p>
+              <p></p>
             </li>
             
 
@@ -35,36 +35,15 @@ function Services() {
           <ul className='list'>
             <li>
               <FaCheckCircle className='icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Suscipit ut minima dicta voluptatum numquam, consectetur sint inventore ipsa similique dolores vero doloribus facilis asperiores eveniet rem error laudantium delectus amet?</p>
+              <p></p>
             </li>
             <li>
               <FaCheckCircle className='icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Suscipit ut minima dicta voluptatum numquam, consectetur sint inventore ipsa similique dolores vero doloribus facilis asperiores eveniet rem error laudantium delectus amet?</p>
+              <p></p>
             </li>
             <li>
               <FaCheckCircle className='icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Suscipit ut minima dicta voluptatum numquam, consectetur sint inventore ipsa similique dolores vero doloribus facilis asperiores eveniet rem error laudantium delectus amet?</p>
-            </li>
-            
-
-          </ul>
-        </article>
-        <article className='service'>
-          <div className='service_head'>
-            <h3>Content Creation</h3>
-          </div>
-          <ul className='list'>
-            <li>
-              <FaCheckCircle className='icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Suscipit ut minima dicta voluptatum numquam, consectetur sint inventore ipsa similique dolores vero doloribus facilis asperiores eveniet rem error laudantium delectus amet?</p>
-            </li>
-            <li>
-              <FaCheckCircle className='icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Suscipit ut minima dicta voluptatum numquam, consectetur sint inventore ipsa similique dolores vero doloribus facilis asperiores eveniet rem error laudantium delectus amet?</p>
-            </li>
-            <li>
-              <FaCheckCircle className='icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Suscipit ut minima dicta voluptatum numquam, consectetur sint inventore ipsa similique dolores vero doloribus facilis asperiores eveniet rem error laudantium delectus amet?</p>
+              <p></p>
             </li>
             
 

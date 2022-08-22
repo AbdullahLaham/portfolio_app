@@ -20,20 +20,35 @@ function About() {
             <article className='about_card'>
               <FaAward className='about_icon'/>
               <h5>Experirence</h5>
-              <small>3+ Years Working</small>
+              <small>1.5+ Years Working</small>
             </article>
             <article className='about_card'>
               <FaUserAlt className='about_icon'/>
               <h5>Clients</h5>
-              <small>200+ woldWide</small>
+              <small>50+ woldWide</small>
             </article>
             <article className='about_card'>
               <FaRegFolder className='about_icon'/>
               <h5>Projects</h5>
-              <small>80+ Completed</small>
+              <small>10+ Completed</small>
             </article>
           </div>
-          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsum, vero provident beatae sed facere laudantium sunt nulla officiis consequatur doloribus rem, natus dolores animi iste nobis recusandae cumque sapiente. Necessitatibus.</p>
+          <p className='aboutMe'>Hi, my name is Abdullah , i am a web developer with specialization in React JS, Next JS Frameworks for website's Front End development, and various backend technologies as Sanity
+            , firebase and so on.
+            I studied computer systems engineering in Al-Azhar University Gaza  
+            I got a training with Gaza Sky Geeks Company in the coding foundation course for front end web development and
+             I Graduated from it with A+ Score  
+            I am experienced in:
+            - JavaScript (ES5, ES6, JSON , Ajax, Axios Fetch)
+            - ReactJS, Next JS, Hooks, Redux,
+            - Material UI,
+            Tailwind,
+            - HTML5/CSS3
+            (Flex, Grid) - Other tech: NPM, Yarn
+            package management – Git, GitHub
+            I guarantee high-quality code and on-time delivery always. Please ping me and let’s discuss your projects.
+
+</p>
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>
